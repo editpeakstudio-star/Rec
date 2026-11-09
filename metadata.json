@@ -1,0 +1,6 @@
+{
+  "name": "Android Call Recorder CLI Generator",
+  "description": "Android 14 (API 34) CLI Project Generator and Call Recorder source code for Linux",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
